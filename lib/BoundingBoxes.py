@@ -1,5 +1,5 @@
 from BoundingBox import *
-from utils import *
+from metrics_utils import *
 
 
 class BoundingBoxes:
